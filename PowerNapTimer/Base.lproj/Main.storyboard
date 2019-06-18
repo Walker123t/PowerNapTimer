@@ -64,6 +64,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="button" destination="5OD-fk-CXe" id="7cv-dd-qjb"/>
                         <outlet property="timeLabel" destination="XcX-Xh-6Re" id="dwL-b6-yg6"/>
                     </connections>
                 </viewController>
